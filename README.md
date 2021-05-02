@@ -45,16 +45,14 @@ $ (venv-pytorch-tutorial)
 
 ### Install dependencies
 
-Install required python libraries
-
 ```bash
 $ (venv-pytorch-tutorial) pip install -r requirements.txt
 ```
 
 ### Create Jupyter Kernel
 
-Create a jupyter kernel corresponding to your environment
-
 ```bash
 $ (venv-pytorch-tutorial) python -m ipykernel install --user --name pytorch-tutorial  --display-name "pytorch-tutorial"
 ```
+
+You can now choose kernel named `pytorch-tutorial` from Jupyter.
