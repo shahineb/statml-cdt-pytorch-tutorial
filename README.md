@@ -10,13 +10,13 @@ For this tutorial, you are roughly going to need a Jupyter kernel with `torch`, 
 Code implemented with `python>=3.6`. Instructions written for 3.8.0 but can be adapted.
 
 
-Clone and go to repository
+### Clone and go to repository
 ```bash
 $ git clone https://github.com/shahineb/statml-cdt-pytorch-tutorial.git
 $ cd statml-cdt-pytorch-tutorial
 ```
 
-#### Setting up environment
+### Setting up environment
 
 Create and activate a dedicated environment with your favorite virtual environment management tool.
 
@@ -43,7 +43,7 @@ $ source activate venv-pytorch-tutorial
 $ (venv-pytorch-tutorial)
 ```
 
-#### Install dependencies
+### Install dependencies
 
 Install required python libraries
 
@@ -51,7 +51,7 @@ Install required python libraries
 $ (venv-pytorch-tutorial) pip install -r requirements.txt
 ```
 
-#### Create Jupyter Kernel
+### Create Jupyter Kernel
 
 Create a jupyter kernel corresponding to your environment
 
