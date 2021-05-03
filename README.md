@@ -4,7 +4,7 @@
 
 ## Installation
 
-For this tutorial, you are roughly going to need a Jupyter kernel with `torch`, `numpy`, `matplotlib`, `tqdm` installed. If your usual python environment already has all of this, you can go ahead and use it. Otherwise, follow the below instruction to set up an environment.
+For this tutorial, you are roughly going to need a Jupyter kernel with `torch`, `gpytorch`, `tqdm`, `sklearn` and base scientific libraries installed (`numpy`, `matplotlib`). If your usual python environment already has all of this, you can go ahead and use it. Otherwise, follow the below instruction to set up an environment.
 
 
 Code implemented with `python>=3.6`. Instructions written for 3.8.0 but can be adapted.
