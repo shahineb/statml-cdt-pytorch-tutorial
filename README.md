@@ -1,10 +1,18 @@
 # Introduction to PyTorch
 
+_StatML 2020/2021 CDT Introduction to PyTorch tutorial_
+
+
+This repository comprises 3 notebooks
+- `01-introduction.ipynb`: Introduction to the fundamentals of PyTorch and automatic differentation
+- `02-deep-kernel-learning-challenge-student.ipynb`: Hands-on implementation of deep kernel learning with PyTorch
+- `03-dataloading-with-pytorch.ipynb`: Basics of dataloading pipelines with PyTorch
+
 
 
 ## Installation
 
-For this tutorial, you are roughly going to need a Jupyter kernel with `torch`, `gpytorch`, `tqdm`, `sklearn` and base scientific libraries installed (`numpy`, `matplotlib`). If your usual python environment already has all of this, you can go ahead and use it. Otherwise, follow the below instruction to set up an environment.
+For this tutorial, you are roughly going to need a Jupyter kernel with `torch`, `gpytorch`, `torchvision`, and usual scientific libraries installed. If your usual python environment already has all of this, you can go ahead and use it. Otherwise, follow the below instruction to set up an environment.
 
 
 Code implemented with `python>=3.6`. Instructions written for 3.8.0 but can be adapted.
