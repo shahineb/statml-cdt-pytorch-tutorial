@@ -3,7 +3,7 @@
 _StatML 2020/2021 CDT Introduction to PyTorch tutorial_
 
 
-This repository comprises 3 notebooks
+This repository contains 3 notebooks
 - `01-introduction.ipynb`: Introduction to the fundamentals of PyTorch and automatic differentation
 - `02-deep-kernel-learning-challenge-student.ipynb`: Hands-on implementation of deep kernel learning with PyTorch
 - `03-dataloading-with-pytorch.ipynb`: Basics of dataloading pipelines with PyTorch
