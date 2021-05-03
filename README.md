@@ -32,7 +32,7 @@ __With virtualenv :__
 ```bash
 $ virtualenv --python=python3.8 venv-pytorch-tutorial
 $ source venv-pytorch-tutorial/bin/activate
-$ (venv-pytorch-tutoriall)
+$ (venv-pytorch-tutorial)
 ```
 
 
