@@ -15,7 +15,7 @@ This repository comprises 3 notebooks
 For this tutorial, you are roughly going to need a Jupyter kernel with `torch`, `gpytorch`, `torchvision`, and usual scientific libraries installed. If your usual python environment already has all of this, you can go ahead and use it. Otherwise, follow the below instruction to set up an environment.
 
 
-Code implemented with `python>=3.6`. Instructions written for 3.8.0 but can be adapted.
+Code implemented with Python 3.8. Instructions written for 3.8.0 but can be adapted.
 
 
 ### Clone and go to repository
